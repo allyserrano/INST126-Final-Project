@@ -1,0 +1,23 @@
+
+References
+
+--------------------------------------------------------------------------------------
+
+
+- for downloading the data/webscraping:
+   https://www.kaggle.com/datasets/thedevastator/global-shark-attack-incidents
+
+ - for regular expressions:
+  https://docs.python.org/3/howto/regex.html
+
+  - pandas and reading files:
+    https://realpython.com/pandas-read-write-files/
+
+  - Dr. Scott Jackson:
+    https://umd.instructure.com/courses/1356179/modules
+
+  - Creating license:
+    https://choosealicense.com/
+
+
+
